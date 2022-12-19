@@ -15,6 +15,8 @@ export default function Document() {
             gtag('config', 'G-QZWYP8PV4C');
             `}
         </Script>
+        <meta charSet='utf-8' />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
       <body>
         <Main />
